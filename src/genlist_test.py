@@ -5,5 +5,5 @@ sys.path.append(cwd)
 #print(sys.path)
 
 #Thest the module: generate_list
-from generate_list() import printIt()
+from generate_list import printIt
 printIt()
